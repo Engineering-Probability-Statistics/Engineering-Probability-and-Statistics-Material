@@ -142,7 +142,7 @@
     <td>
       ⏱ <strong>Start:</strong> <code>2025-08-11 22:01</code><br/>
       ⏳ <strong>End:</strong> <code>2025-08-16 20:29</code><br/>
-      📄 <a href="link_to_practice1_questions">Questions</a><br/>
+      📄 <a href="https://github.com/Engineering-Probability-Statistics/Engineering-Probability-and-Statistics-Material/blob/main/Chapter%203/Practice/practice3-problems.pdf">Questions</a><br/>
       ✅ <a href="link_to_practice1_solutions">Solutions</a>
     </td>
     <td align="center">Unknown</td>
