@@ -199,7 +199,7 @@
 ### Engineering Probability and Statistics – Summer Program
 *Welcome aboard!* 🚀
 
-We, a team of researchers under the supervision of **Dr. Bahrak**, are organizing a summer educational–research program specifically designed for first-year Electrical and Computer Engineering students (Class of 2024) at the University of Tehran.
+We, a team of researchers under the supervision of **Dr. Bahrak** ([bahrak@gmail.com](mailto:bahrak@gmail.com)), are organizing a summer educational–research program specifically designed for first-year Electrical and Computer Engineering students (Class of 2024) at the University of Tehran.
 
 ---
 
@@ -331,4 +331,4 @@ This repository contains all materials for the **Summer 2025 educational–resea
 - 🏆 **Final Exam** materials (schedule, questions, solutions)
 - 📖 Program description & research project details
 
-Maintained by the program’s research team under the supervision of **Dr. Bahrak**.
+Maintained by the program’s research team under the supervision of **Dr. Bahrak**([bahrak@gmail.com](mailto:bahrak@gmail.com)).
