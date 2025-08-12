@@ -12,7 +12,7 @@
   </tr>
 
   <tr>
-    <td><strong>Chapter 0</strong></td>
+    <td><strong>Week 0</strong></td>
     <td>
       🎥 <a href="https://youtu.be/Lqexyj6h5dQ?si=3V3KY2g2fX5mI0uM">1.1: Set Theory</a><br/>
       📄 <a href="https://github.com/mehradliviyan/Engineering-Probability-and-Statistics-Material/blob/main/Chapter%200/Notes/Lecture%201%20-%20Set%20Theory%20and%20Probability%20Definition.pdf">1.1: Set Theory</a><br/>
@@ -37,7 +37,7 @@
   </tr>
 
   <tr>
-    <td><strong>Chapter 1</strong></td>
+    <td><strong>Week 1</strong></td>
     <td>
       🎥 <a href="https://youtu.be/DchSfSZ6c84?si=elje0_2tyD25JVIg">3.1: Conditional Probability</a><br/>
       📄 <a href="https://github.com/mehradliviyan/Engineering-Probability-and-Statistics-Material/blob/main/Chapter%201/Notes/Lecture%203%20-%20Conditional%20Probability.pdf">3.1: Conditional Probability</a><br/>
@@ -75,7 +75,7 @@
   </tr>
 
   <tr>
-    <td><strong>Chapter 2</strong></td>
+    <td><strong>Week 2</strong></td>
     <td>
       🎥 <a href="https://youtu.be/SMU260g_Tfc?si=EWOdotn9eRsshTus">5.1: Random Variable</a><br/>
       📄 <a href="https://github.com/mehradliviyan/Engineering-Probability-and-Statistics-Material/blob/main/Chapter%202/Notes/Lecture%205%20-%20Random%20Variable%20and%20Expectation.pdf">5.1: Random Variable</a><br/>
@@ -116,7 +116,7 @@
   </tr>
 
   <tr>
-    <td><strong>Chapter 3</strong></td>
+    <td><strong>Week 3</strong></td>
     <td>
       🎥 <a href="https://youtu.be/k2gQ-1Hzpwc?si=mu8ikZiil56dDCLq">7.1: Hypergeometric Distribution</a><br/>
       📄 <a href="https://github.com/mehradliviyan/Engineering-Probability-and-Statistics-Material/blob/main/Chapter%203/Notes/Lecture%207%20-%20Discrete%20Distributions.pdf">7.1: Hypergeometric Distribution</a><br/>
@@ -149,7 +149,7 @@
   </tr>
 
   <tr>
-    <td><strong>Chapter 4</strong></td>
+    <td><strong>Week 4</strong></td>
     <td>
       🎥 <a href="https://youtu.be/4MxmWy5XTUI?si=m51h9tU0J9x88k2T">9.1: Normal Distribution</a><br/>
       📄 <a href="https://github.com/mehradliviyan/Engineering-Probability-and-Statistics-Material/blob/main/Chapter%204/Notes/Lecture%209%20-%20Normal%20and%20Exponential%20Distributions.pdf">9.1: Normal Distribution</a><br/>
