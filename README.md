@@ -221,15 +221,102 @@ This program is part of a broader research project. All course-related performan
 
 ## 👥 Team Members
 
-| Photo | Name | Links |
-|-------|------|-------|
-| ![Mohammad Amanlou](link_to_photo) | **Mohammad Amanlou** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MohammadAmanlou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amanlou-220b0121a/) |
-| ![Fereshteh Bagheri](link_to_photo) | **Fereshteh Bagheri** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/FereshteBagheri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fereshte-bagheri-536a7b2a5) |
-| ![Elahe Khodaverdi](link_to_photo) | **Elahe Khodaverdi** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/elahekhodaverdi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahekhodaverdi) |
-| ![Mehrad Liviyan](link_to_photo) | **Mehrad Liviyan** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mehradliviyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrad-liviyan-a88462283) |
-| ![Fatemeh Boloukazari](link_to_photo) | **Fatemeh Boloukazari** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/FatemehBoloukazari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-boloukazari-066881353/) |
-| ![Yasaman Amou Jafary](link_to_photo) | **Yasaman Amou Jafary** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YasamanAmoujafary) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasaman-amou-jafary-720134377) |
-| ![Shahab Sherafat](link_to_photo) | **Shahab Sherafat** | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/shahabsherafat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahab-sherafat-2a6712236/) |
+<table>
+  <thead>
+    <tr>
+      <th>Photo</th>
+      <th>Name</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://i.ibb.co/6LkvcXH/MMDAmanlou.png" alt="Mohammad Amanlou" width="100"></td>
+      <td><strong>Mohammad Amanlou</strong></td>
+      <td>
+        <a href="https://github.com/MohammadAmanlou">
+          <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/mohammad-amanlou-220b0121a/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.ibb.co/r2S4rt9T/Fereshte-Bagheri.png" alt="Fereshteh Bagheri" width="100"></td>
+      <td><strong>Fereshteh Bagheri</strong></td>
+      <td>
+        <a href="https://github.com/FereshteBagheri">
+          <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/fereshte-bagheri-536a7b2a5">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.ibb.co/qL8yqVZK/Elahe-Khodaverdi.jpg" alt="Elahe Khodaverdi" width="100"></td>
+      <td><strong>Elahe Khodaverdi</strong></td>
+      <td>
+        <a href="https://github.com/elahekhodaverdi">
+          <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/elahekhodaverdi">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.ibb.co/1G0tTBRZ/Mehrad-Liviyan.jpg" alt="Mehrad Liviyan" width="100"></td>
+      <td><strong>Mehrad Liviyan</strong></td>
+      <td>
+        <a href="https://github.com/mehradliviyan">
+          <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/mehrad-liviyan-a88462283">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.ibb.co/GbyZp37/Fatemeh-Boloukazari.jpg" alt="Fatemeh Boloukazari" width="100"></td>
+      <td><strong>Fatemeh Boloukazari</strong></td>
+      <td>
+        <a href="https://github.com/FatemehBoloukazari">
+          <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/fatemeh-boloukazari-066881353/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.ibb.co/3y3FQdLx/Yasaman-Amoujafary.jpg" alt="Yasaman Amou Jafary" width="100"></td>
+      <td><strong>Yasaman Amou Jafary</strong></td>
+      <td>
+        <a href="https://github.com/YasamanAmoujafary">
+          <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/yasaman-amou-jafary-720134377">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.ibb.co/JWwTmb9H/Shahab-Sherafat.jpg" alt="Shahab Sherafat" width="100"></td>
+      <td><strong>Shahab Sherafat</strong></td>
+      <td>
+        <a href="https://github.com/shahabsherafat">
+          <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/shahab-sherafat-2a6712236/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
