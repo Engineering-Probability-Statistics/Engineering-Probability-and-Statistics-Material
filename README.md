@@ -110,7 +110,7 @@
     <td>
       ⏱ <strong>Start:</strong> <code>2025-08-10 14:30:00</code><br/>
       ⏳ <strong>End:</strong> <code>2025-08-10 16:30:00</code><br/>
-      📄 <a href="link_to_quiz1_questions">Questions</a><br/>
+      📄 <a href="https://github.com/Engineering-Probability-Statistics/Engineering-Probability-and-Statistics-Material/blob/main/Chapter%202/Quiz/quiz2.pdf">Questions</a><br/>
       ✅ <a href="link_to_quiz1_solutions">Solutions</a>
     </td>
   </tr>
