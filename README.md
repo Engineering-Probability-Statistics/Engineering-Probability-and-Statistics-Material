@@ -5,7 +5,7 @@
 <!-- Paste this into your README.md -->
 <table border="0" cellpadding="6" cellspacing="0">
   <tr>
-    <th align="left">Chapter</th>
+    <th align="left">Week</th>
     <th align="left">Subject(s)</th>
     <th align="left">Practice</th>
     <th align="left">Quiz</th>
@@ -69,8 +69,8 @@
     <td>
       ⏱ <strong>Start:</strong> <code>2025-08-02 16:30</code><br/>
       ⏳ <strong>End:</strong> <code>2025-08-02 17:30</code><br/>
-      📄 <a href="link_to_quiz1_questions">Questions</a><br/>
-      ✅ <a href="link_to_quiz1_solutions">Solutions</a>
+      📄 <a href="[link_to_quiz1_questions](https://github.com/Engineering-Probability-Statistics/Engineering-Probability-and-Statistics-Material/blob/main/Chapter%201/Quiz/quiz1-problems.pdf)">Questions</a><br/>
+      ✅ <a href="[link_to_quiz1_solutions](https://github.com/Engineering-Probability-Statistics/Engineering-Probability-and-Statistics-Material/blob/main/Chapter%201/Quiz/quiz1-solutions.pdf)">Solutions</a>
     </td>
   </tr>
 
